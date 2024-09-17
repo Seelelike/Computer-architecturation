@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Digita_system/computer_architecture/Adder_32bits.sim/sim_1/impl/timing/modelsim
+T_opt
+!s110 1726383220
+V_4ZGEcVNkI?A=@be;GSzS0
+04 15 4 work adder_32bits_tb fast 0
+04 4 4 work glbl fast 0
+=1-088fc3685457-66e68473-163-6ec8
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L simprims_ver -L secureip +acc
+n@_opt
+OL;O;10.4;61
+vadder_32bits
+Z1 !s10a 1726383211
+Z2 !s110 1726378950
+!i10b 1
+!s100 oHJ^zQ5JCIUYn65gki_O;2
+ID]faClY`?Wfni3B^Hg2Sa3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1726378945
+Z5 8adder_32bits_tb_time_impl.v
+Z6 Fadder_32bits_tb_time_impl.v
+L0 21
+Z7 OL;L;10.4;61
+r1
+!s85 0
+31
+Z8 !s108 1726378950.400000
+Z9 !s107 F:/modeltech64_10.4/work/adder_32bits_tb.v|adder_32bits_tb_time_impl.v|
+Z10 !s90 -incr|-mfcu|-work|xil_defaultlib|adder_32bits_tb_time_impl.v|F:/modeltech64_10.4/work/adder_32bits_tb.v|
+!i113 0
+Z11 o-mfcu -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder_32bits_tb
+!s10a 1687795200
+R2
+!i10b 1
+!s100 PdN>UkbFC5jkRndf_Va:[3
+Ion45BlzD<AO4hRZ[P7AAD3
+R3
+R0
+w1687795200
+8F:/modeltech64_10.4/work/adder_32bits_tb.v
+FF:/modeltech64_10.4/work/adder_32bits_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+vglbl
+R1
+R2
+!i10b 1
+!s100 VhKSc`oaAloDU6jkNd<Ja3
+IGYESUI8EKO>_:2XFAn]P^3
+R3
+R0
+R4
+R5
+R6
+L0 1882
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11

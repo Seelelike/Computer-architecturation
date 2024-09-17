@@ -1,0 +1,111 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Digita_system/computer_architecture/Adder_32bits.sim/sim_1/behav/modelsim
+vadder_32bits
+Z1 !s110 1726380085
+!i10b 1
+!s100 z4YaYAhZTaG=?zL0MIKcX1
+I5TP4MgDF9R6Re^3o0CUCY1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1726372675
+8F:/modeltech64_10.4/work/adder_32bits.v
+FF:/modeltech64_10.4/work/adder_32bits.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+Z4 !s108 1726380085.078000
+Z5 !s107 F:/modeltech64_10.4/work/adder_32bits_tb.v|F:/modeltech64_10.4/work/adder_8bits.v|F:/modeltech64_10.4/work/adder_32bits.v|F:/modeltech64_10.4/work/MUX2_1.v|
+Z6 !s90 -incr|-mfcu|-work|xil_defaultlib|F:/modeltech64_10.4/work/MUX2_1.v|F:/modeltech64_10.4/work/adder_32bits.v|F:/modeltech64_10.4/work/adder_8bits.v|F:/modeltech64_10.4/work/adder_32bits_tb.v|
+!i113 0
+Z7 o-mfcu -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder_32bits_tb
+R1
+!i10b 1
+!s100 PdN>UkbFC5jkRndf_Va:[3
+Ion45BlzD<AO4hRZ[P7AAD3
+R2
+R0
+w1687795200
+8F:/modeltech64_10.4/work/adder_32bits_tb.v
+FF:/modeltech64_10.4/work/adder_32bits_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+vadder_8bits
+R1
+!i10b 1
+!s100 D98VV^IMOYRnDMh4;<7Ke3
+I7e^AVaM`BBDWdKLzi[41B3
+R2
+R0
+w1726370438
+8F:/modeltech64_10.4/work/adder_8bits.v
+FF:/modeltech64_10.4/work/adder_8bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+vglbl
+R1
+!i10b 1
+!s100 aGX4R92RO3^bD43HL2j:J2
+I5GBkB2^BD7zJ]g29CKF3T3
+R2
+R0
+w1697210495
+8glbl.v
+Fglbl.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1726380085.151000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vMUX2_1
+R1
+!i10b 1
+!s100 klQ_iMZbhh=6^g85Pf>Dc0
+I`70^0HB<>f?OOQGTNj_bm3
+R2
+R0
+w1726372045
+8F:/modeltech64_10.4/work/MUX2_1.v
+FF:/modeltech64_10.4/work/MUX2_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+n@m@u@x2_1

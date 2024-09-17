@@ -1,0 +1,25 @@
+# do {adder_32bits_tb_compile.do}
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet xil_defaultlib modelsim_lib/msim/xil_defaultlib 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 14:01:25 on Sep 15,2024
+# vlog -incr -mfcu -work xil_defaultlib F:/modeltech64_10.4/work/MUX2_1.v F:/modeltech64_10.4/work/adder_32bits.v F:/modeltech64_10.4/work/adder_8bits.v F:/modeltech64_10.4/work/adder_32bits_tb.v 
+# -- Compiling module MUX2_1
+# -- Compiling module adder_32bits
+# -- Compiling module adder_8bits
+# -- Compiling module adder_32bits_tb
+# 
+# Top level modules:
+# 	adder_32bits_tb
+# End time: 14:01:25 on Sep 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 14:01:25 on Sep 15,2024
+# vlog -work xil_defaultlib glbl.v 
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# End time: 14:01:25 on Sep 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
